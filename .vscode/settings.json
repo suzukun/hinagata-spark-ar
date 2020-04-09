@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "*.arproj": true,
+    "*.arprojbk": true,
+    "patches": true,
+    "blocks": true
+  }
+}
